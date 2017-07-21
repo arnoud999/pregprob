@@ -1,0 +1,3 @@
+1. On the left, select the number of weeks you have been pregnant, rounded down. For example, if you've been pregnant for 36 weeks and 2 days, select "36".
+2. Indicate whether this is your first time giving birth or not.
+3. On the right, you will see a graph with the _conditional_ probabilities of giving birth in a certain week. For example, if you've been pregnant for 36 weeks and it's your first time giving birth, there is a probability of 33.6% that you'll give birth in week 39 of your pregnancy.
